@@ -24,3 +24,11 @@ space.
 by the original vendor. Exceptions can be made for legacy systems with significant userbases.
 - While we welcome non-Rust language interfaces, we will never compromise the usability and quality of the Rust API
 to meet their needs.
+
+## F.A.Q.
+
+- Is this an abstraction layer over native UI on each platform?
+  - No. Each element in the UI model will come with a specification on how it should look when rendered. Additionally when
+  designing the model no consideration will be given to the constraints imposed by native UI frameworks. That being said, if a
+  third party were to implement a rendering backend using native UI widgets, and the final look and feel met the specification
+  of the data model, who are we to stop them?
