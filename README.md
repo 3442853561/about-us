@@ -27,6 +27,8 @@ to meet their needs.
 
 ## F.A.Q.
 
+- Are you endorsed by rust-lang?
+  - Not yet!
 - Is this an abstraction layer over native UI on each platform?
   - No. Each element in the UI model will come with a specification on how it should look when rendered. Additionally when
   designing the model no consideration will be given to the constraints imposed by native UI frameworks. That being said, if a
