@@ -1,6 +1,6 @@
 # Rust UI Working Group [![Discord](https://img.shields.io/discord/634853209516802086?label=Discord)](https://discord.gg/RKWCECa)
 
-This working group is open to anyone interested in participating. Please email kieseljake@gmail.com if you'd like to join us! Our 
+This working group is open to anyone interested in participating. Please email kieseljake+ruiwg@gmail.com if you'd like to join us! Our 
 objective is to build a UI system that focuses on using Rust as a first class language.
 
 ## Our goals
